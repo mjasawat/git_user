@@ -5,3 +5,7 @@
       group: 
         name: developer
         state: present
+    - name: user add 
+      user:
+        name: harry
+        state: present 
