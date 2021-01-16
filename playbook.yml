@@ -3,5 +3,5 @@
   tasks:
     - name: group add  
       group: 
-        name: ibm
+        name: developer
         state: present
